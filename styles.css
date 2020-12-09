@@ -1,0 +1,110 @@
+h1 {
+  font-family: 'Nerko One', cursive;
+  font-size: 6rem;
+  color: #00416d;
+  text-align: center;
+}
+
+#home {
+  font-size: 6rem;
+  padding-top: 90px;
+}
+
+#subtitle {
+  font-size: 3rem;
+  padding-bottom: 50px;
+}
+
+#signature {
+  padding-top: 300px;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+h2 {
+  font-family: 'Nerko One', cursive;
+  font-size: 3rem;
+  color: #00416d;
+  text-align: center;
+}
+
+h4 {
+  padding-top: 30px;
+  text-align: right;
+}
+
+h5 {
+  font-family: 'Nunito', sans-serif;
+  color: #00416d;
+  text-align: center;
+  font-size: 16px;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+}
+
+a {
+  font-family: 'Nunito', sans-serif;
+}
+
+p {
+  font-family: 'Nunito', sans-serif;
+}
+
+li {
+  font-family: 'Nunito', sans-serif;
+}
+
+html body {
+  background-color: #EDF9FA;
+  padding: 30px 60px 30px;
+}
+
+.list {
+  color: #00416d;
+  font-size: 1.15rem;
+}
+
+.bottom-buttons {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.btnHome {
+  color: #EDF9FA;
+}
+
+.content {
+  padding-top: 40px;
+}
+
+.previous {
+  margin: 20px;
+  font-size: 1.25rem;
+}
+
+.next {
+  margin: 20px;
+  font-size: 1.25rem;
+}
+
+.recipe {
+  font-size: 4rem;
+  padding-top: 50px;
+}
+
+.btn {
+  position: absolute;
+  right: 0;
+}
+
+.home {
+  position: absolute;
+  right: 47%;
+}
+
+.toc {
+  font-size: 4rem;
+  padding-top: 20px;
+}
